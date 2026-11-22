@@ -3,7 +3,7 @@
 -------------------- */
 
 :root {
-  --theme-color: #00a0a0;
+  --theme-color: #0fa0a0;
 }
 
 * {
@@ -18,7 +18,7 @@ html, body {
 body {
   margin: 0;
   padding: 30px;
-  color: #333;
+  color: #393;
 }
 
 /* --------------------
@@ -72,6 +72,6 @@ th {
   color: #fff;
 }
 th, td {
-  border: solid 1px #f9f0f0;
+  border: solid 1px #f9f9f0;
   padding: 0.5rem;
 }
