@@ -18,7 +18,7 @@ html, body {
 body {
   margin: 0;
   padding: 40px;
-  color: #f93;
+  color: #393;
 }
 
 /* --------------------
@@ -58,7 +58,7 @@ li:before {
 table {
   border-spacing: 0;
   border-collapse: collapse;
-  border: solid 1px #f0fff0;
+  border: solid 1px #f00ff0;
   min-width: 70%;
 }
 tr {
